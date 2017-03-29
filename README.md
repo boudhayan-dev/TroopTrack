@@ -22,13 +22,13 @@ The additional info can be ontained by clicking the MORE button -
 
 # Requirements -
 
-For the app -
+# For the app -
 
 1.Thunkable/MIT App Inventor account .
 
 2.Thingspeak channel .
 
-For the complete setup -
+# For the complete setup -
 
 1.MSP430 microcontroller.
 
