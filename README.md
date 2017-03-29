@@ -25,12 +25,17 @@ The additional info can be ontained by clicking the MORE button -
 For the app -
 
 1.Thunkable/MIT App Inventor account .
+
 2.Thingspeak channel .
 
 For the complete setup -
 
 1.MSP430 microcontroller.
+
 2.Sensors - PIR,Heart Beat,Temperature.
+
 4.GPS module.
+
 5.GSM module.
+
 6.Thingspeak server to store sensor readings .
