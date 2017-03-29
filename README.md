@@ -17,3 +17,18 @@ The updated sensor readings and the map interface is as follows -
 
 The additional info can be ontained by clicking the MORE button - 
  
+![screenshot_20170330-001435](https://cloud.githubusercontent.com/assets/20648536/24471694/8bcc79d2-14e0-11e7-8f1b-36e91812f059.png)
+
+
+# Requirements -
+
+For the app -
+1.Thunkable/MIT App Inventor account .
+2.Thingspeak channel .
+
+For the complete setup -
+1.MSP430 microcontroller.
+2.Sensors - PIR,Heart Beat,Temperature.
+4.GPS module.
+5.GSM module.
+6.Thingspeak server to store sensor readings .
