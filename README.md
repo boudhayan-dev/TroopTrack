@@ -9,3 +9,11 @@ This app was built to provide an user interface for the main project which was m
 The login Screen and the user interface is as shown - 
 
 ![pjimage 2](https://cloud.githubusercontent.com/assets/20648536/24471210/0231c200-14df-11e7-863a-0daf5b11431b.jpg)
+
+
+The updated sensor readings and the map interface is as follows - 
+
+![pjimage 3](https://cloud.githubusercontent.com/assets/20648536/24471611/3e5b3ba2-14e0-11e7-8f0a-ba3f7b26c6f3.jpg)
+
+The additional info can be ontained by clicking the MORE button - 
+ 
