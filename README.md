@@ -3,7 +3,7 @@ An android app to keep track of the user's health conditions and physical locati
 
 # Description -
 
-This app was built to provide an user interface for the main project which was made using MSP430 microcontroller . This app is just the UI which provides the readings provided by the microcontroller . The reading comprises of - Heart beat , Temperature (Body and Surroundings) , Pir sensor status , Gps location and Emergency status (if it arises ) . This app has a built-in feature wherein , the values get updated by simply shaking the phone . The user can check the location of the device by opening the map interface provided . It also features some additional info - product demonstration and component list that were used the making of the product .
+This app was built to provide an user interface for the main project which was made using MSP430 microcontroller . This app is just the UI which displays the readings provided by the microcontroller . The reading comprises of - Heart beat , Temperature (Body and Surroundings) , Pir sensor status , Gps location and Emergency status (if it arises ) . This app has a built-in feature wherein , the values get updated by simply shaking the phone . The user can check the location of the device by opening the map interface provided . It also features some additional info - product demonstration and component list that were used in the making of the product .
 
 
 The login Screen and the user interface is as shown - 
@@ -23,10 +23,12 @@ The additional info can be ontained by clicking the MORE button -
 # Requirements -
 
 For the app -
+
 1.Thunkable/MIT App Inventor account .
 2.Thingspeak channel .
 
 For the complete setup -
+
 1.MSP430 microcontroller.
 2.Sensors - PIR,Heart Beat,Temperature.
 4.GPS module.
